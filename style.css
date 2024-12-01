@@ -44,7 +44,7 @@ header p{
 }
 
 nav{
-  line-height: 0px;
+  
   text-align: left; 
   
 }
@@ -53,6 +53,7 @@ nav > a{
     color: white;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
+    margin: 1px;
     
 }
 
