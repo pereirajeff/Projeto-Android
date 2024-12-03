@@ -158,13 +158,17 @@ aside{background-color: var(--cor3);
     border-radius: 10px;
     margin:10px;
     box-shadow: 2px 1px 4px 1px #00000081;
+   
     
 }
 
 aside > ul{columns: 2;
-list-style-position: inside;}
+    list-style-position: inside;
+    list-style-type: "✅";
+    
+}
 
-li::before{content: "✅";}
+
 
 /* Rodapé */
 
